@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.vscode/
+
+outputs/*.jpg
+outputs/*.png
+
+dataset/test/
+dataset/train/
+
+models/*.h5
+models/*.keras
