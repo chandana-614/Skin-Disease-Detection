@@ -120,6 +120,6 @@ The AI Skin Disease Detection system is designed to analyze skin images and clas
 
 **G O Chandana**
 
-Department of Information Science and Engineering
+Department of Computer Science and Engineering
 
 SJB Institute of Technology, Bengaluru
