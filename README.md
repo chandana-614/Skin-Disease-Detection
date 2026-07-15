@@ -116,7 +116,7 @@ The AI Skin Disease Detection system is designed to analyze skin images and clas
 - Doctor recommendation system
 - Patient report generation
 
-## Authors
+## Author
 
 **G O Chandana**
 
