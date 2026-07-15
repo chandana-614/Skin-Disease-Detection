@@ -1,4 +1,4 @@
-# 🩺 AI-Based Skin Disease Detection with Visual Highlight
+# AI-Based Skin Disease Detection with Visual Highlight
 
 This project is an AI-powered skin disease detection system developed using Python and Machine Learning.
 
